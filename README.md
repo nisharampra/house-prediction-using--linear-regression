@@ -1,4 +1,4 @@
-# house-prediction-using-ollama-open-source
+# house-prediction-
 
 # Housing Price Prediction
 
